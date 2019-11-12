@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(217, 234, 236)
+    }
+h1 {
+    color: #5c186d; 
+}
+h2 {
+    color: #040b49; 
+}
+h3 { 
+    color: #140c42; 
+    }
+
+
+
+hr {
+    background-color: aliceblue;
+    border-style: none;
+    border-color: black;
+    border-width: 4px;
+    border-top-style:dotted;
+
+    width: 5%;
+    
+}
+.Doston {
+    border-radius:100%;
+}
